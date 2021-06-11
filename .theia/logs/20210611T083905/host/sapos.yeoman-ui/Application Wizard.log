@@ -1,0 +1,21 @@
+{
+  "label": "Application Wizard.AbstractWebviewPanel",
+  "level": "error",
+  "message": "@sap/hdb-project:app generator failed - process.on(uncaughtException) The generator encountered an error: Error: Failed to create the service \"HANACloud-Workshop6-hdidb-ws-wglhl\"; Reason: Service broker error: Service broker hana-broker failed with: Can not create service instance 'HANACloud-Workshop6-hdidb-ws-wglhl': There is no database available. Ensure that you have a database available in space 'dev' within organization 'f516d10dtrial'.\n",
+  "stack": "Error: The generator encountered an error: Error: Failed to create the service \"HANACloud-Workshop6-hdidb-ws-wglhl\"; Reason: Service broker error: Service broker hana-broker failed with: Can not create service instance 'HANACloud-Workshop6-hdidb-ws-wglhl': There is no database available. Ensure that you have a database available in space 'dev' within organization 'f516d10dtrial'.\n\n    at module.exports._displayErrors (/extbin/npm/globals/lib/node_modules/@sap/generator-add-hdb-module/generators/hdb_module_app/index.js:690:33)\n    at module.exports.install (/extbin/npm/globals/lib/node_modules/@sap/generator-add-hdb-module/generators/hdb_module_app/index.js:685:14)\n    at processTicksAndRejections (internal/process/task_queues.js:97:5)",
+  "time": "2021-06-11T08:39:35.725Z"
+}
+{
+  "label": "Application Wizard.AbstractWebviewPanel",
+  "level": "error",
+  "message": "@sap/hdb-project:app generator failed - process.on(uncaughtException) The generator encountered an error: Error: Failed to create the service \"HANACloud-Workshop-hdidb-ws-wglhl\"; Reason: Service broker error: Service broker hana-broker failed with: Can not create service instance 'HANACloud-Workshop-hdidb-ws-wglhl': There is no database available. Ensure that you have a database available in space 'dev' within organization 'f516d10dtrial'.\n",
+  "stack": "Error: The generator encountered an error: Error: Failed to create the service \"HANACloud-Workshop-hdidb-ws-wglhl\"; Reason: Service broker error: Service broker hana-broker failed with: Can not create service instance 'HANACloud-Workshop-hdidb-ws-wglhl': There is no database available. Ensure that you have a database available in space 'dev' within organization 'f516d10dtrial'.\n\n    at module.exports._displayErrors (/extbin/npm/globals/lib/node_modules/@sap/generator-add-hdb-module/generators/hdb_module_app/index.js:690:33)\n    at module.exports.install (/extbin/npm/globals/lib/node_modules/@sap/generator-add-hdb-module/generators/hdb_module_app/index.js:685:14)\n    at processTicksAndRejections (internal/process/task_queues.js:97:5)",
+  "time": "2021-06-11T08:44:45.712Z"
+}
+{
+  "label": "Application Wizard.AbstractWebviewPanel",
+  "level": "error",
+  "message": "@sap/hdb-project:app generator failed - process.on(uncaughtException) process.on(uncaughtException) The generator encountered an error: Error: Failed to create the service \"HANACloud-Workshop-hdidb-ws-wglhl\"; Reason: Service broker error: Service broker hana-broker failed with: Can not create service instance 'HANACloud-Workshop-hdidb-ws-wglhl': There is no database available. Ensure that you have a database available in space 'dev' within organization 'f516d10dtrial'.\n",
+  "stack": "Error: The generator encountered an error: Error: Failed to create the service \"HANACloud-Workshop-hdidb-ws-wglhl\"; Reason: Service broker error: Service broker hana-broker failed with: Can not create service instance 'HANACloud-Workshop-hdidb-ws-wglhl': There is no database available. Ensure that you have a database available in space 'dev' within organization 'f516d10dtrial'.\n\n    at module.exports._displayErrors (/extbin/npm/globals/lib/node_modules/@sap/generator-add-hdb-module/generators/hdb_module_app/index.js:690:33)\n    at module.exports.install (/extbin/npm/globals/lib/node_modules/@sap/generator-add-hdb-module/generators/hdb_module_app/index.js:685:14)\n    at processTicksAndRejections (internal/process/task_queues.js:97:5)",
+  "time": "2021-06-11T08:44:45.712Z"
+}
